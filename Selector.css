@@ -1,0 +1,20 @@
+/* Type Selector */
+h1{
+    color: blue;
+}
+
+p{
+    color: aqua;
+}
+/* class Selector */
+.class1{
+    color: red;
+}
+
+/* id Selector */
+#id1{
+    color: green;
+}
+#id2{
+    color: blueviolet;
+}

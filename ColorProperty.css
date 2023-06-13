@@ -1,0 +1,29 @@
+/* color Name */
+p{
+    color: red;
+}
+
+/* hexa decimal Number 0-9 a,b,c,d,e,f*/
+h5{
+    color: #4d0000;
+}
+
+/* rgb color(red,green,blue) (0-255)*/
+h4{
+    color: rgb(100,100,0);
+}
+
+/* rgba color (red,green,blue,alpha(0-1)) (0-255) */
+h3{
+    color: rgba(255,0,0,0);
+    /* color: rgba(255,0,0,1); */
+}
+
+/* HSL color (hue (0-360)deg,saturation(0-100%)(100% default),lightness(0-100%)(50% default))*/
+h2{
+    color: hsl(0,100%,50%);
+}
+/* HSLA color (hue (0-360)deg,saturation(0-100%)(100% default),lightness(0-100%)(50% default),alpha(0-1)(1 default)*/
+h1{
+    color: hsla(0,100%,50%,.5);
+}
